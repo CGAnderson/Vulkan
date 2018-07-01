@@ -2,3 +2,6 @@ Cynthia test - this only to my test branch on remote origin (and local)
 
 make some changes and do a commit to 'test branch'
 
+third, commit is not the same as pushing the local (committed) file back up to the remote (origin..forked) branch
+so this time, right-click file and commit, then push (when tortoise dialog allows that option)
+
